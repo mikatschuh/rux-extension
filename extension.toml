@@ -3,7 +3,7 @@ name = "Rux extension"
 version = "0.0.1"
 schema_version = 1
 authors = ["Mika Aßmus mika.assmus@gmail.com"]
-description = "Support for the Rux Programming Language"
+description = "Rux support."
 repository = "https://github.com/mikatschuh/rux-extension"
 
 [grammars.rux]
