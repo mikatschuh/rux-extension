@@ -1,11 +1,11 @@
-id = "flou-extension"
-name = "Flou"
+id = "rux-extension"
+name = "Rux extension"
 version = "0.0.1"
 schema_version = 1
 authors = ["Mika Aßmus mika.assmus@gmail.com"]
-description = "Support for the Flou Programming Language"
-repository = "https://github.com/mikatschuh/flou-extension"
+description = "Support for the Rux Programming Language"
+repository = "https://github.com/mikatschuh/rux-extension"
 
-[grammars.flou]
-repository = "https://github.com/mikatschuh/tree-sitter-flou"
-rev = "6e450c6297c2e90d955245250f89cecb85289d05"
+[grammars.rux]
+repository = "https://github.com/mikatschuh/tree-sitter-rux"
+rev = "ee79f2a8f248eeea028d4044b81ff4466be8319f"
