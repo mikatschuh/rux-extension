@@ -8,4 +8,4 @@ repository = "https://github.com/mikatschuh/flou-extension"
 
 [grammars.flou]
 repository = "https://github.com/mikatschuh/tree-sitter-flou"
-rev = "e677b00595616c6c0411801da4a1337260bd23c1"
+rev = "6e450c6297c2e90d955245250f89cecb85289d05"
